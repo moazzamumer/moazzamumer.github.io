@@ -6,40 +6,39 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+## [Download Complete CV (PDF)](/files/Moazzam_CV.pdf)
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. Data Science, FAST National University of Computer and Emerging Sciences, 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant (August 2024 – Present)
+  * FAST NUCES Lahore
+  <!-- * Duties includes: Updates and improvements to template -->
+  * Supervisor: [Dr. Asma Ahmad](https://lhr.nu.edu.pk/fsc/facultyProfile/4335)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* AI Engineer (May 2024 – April 2025)
+  * Catalic AI
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<!-- * Duties included: Tagging issues
+* Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python, R, C/C++, SQL
+* Frameworks
+  * FastAPI, Flask, Django, Streamlit
+* Libraries
+  * Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, PyTorch, OpenCV
+* Cloud and DevOps
+  * AWS, GCP, Docker, Linux, CI/CD, Git, GitHub, HuggingFace
+* LLMs & AI APIs
+  * OpenAI API, Gemini, Gemma 3 series, ChromaDB, Pinecone, LangChain, YOLO
 
 Publications
 ======
@@ -47,11 +46,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +60,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assistant Vice President (May 2023 – Sept 2024)
+  * FAST Society of Data Science
+ 
+* Marketing Deputy Head (Jan 2022 – Oct 2023)
+  * SOFTEC, FAST NUCES Lahore
+ 

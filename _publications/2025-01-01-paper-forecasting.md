@@ -1,5 +1,5 @@
 ---
-title: "Multivariate Time Series Forecasting for Air Quality"
+title: "PM2.5 & PM10 Forecasting via Multivariate Time Series Modeling"
 collection: publications
 permalink: /publication/forecasting-paper
 date: 2025-01-01

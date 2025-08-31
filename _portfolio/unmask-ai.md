@@ -16,6 +16,10 @@ The system empowers users to submit prompts, detect and analyze bias, cross-exam
 
 **Tools/Stack:** FastAPI · PostgreSQL · OpenAI GPT-4o · SQLAlchemy · Streamlit · Jinja2 · WeasyPrint · Railway · Docker  
 
+**Code:** [GitHub Repo Backend](https://github.com/moazzamumer/Unmask-AI-BE)
+
+**Code:** [GitHub Repo Frontend](https://github.com/moazzamumer/Unmask-AI-FE)
+
 ---
 
 ## Screenshots

@@ -1,5 +1,5 @@
 ---
-title: "Federated Learning on Multi-Sensor Human Activity Recognition"
+title: "Federated Learning on Multi-Sensor Human Activity Recognition Datasets"
 collection: publications
 permalink: /publication/federated-paper
 date: 2025-01-02

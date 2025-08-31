@@ -2,6 +2,7 @@
 title: "CapVox AI"
 excerpt: "24/7 AI voice automation platform for SDR and receptionist tasks<br/><img src='/images/capvox/capvox.png' width='400' height='300'>"
 collection: portfolio
+category: industry
 ---
 
 **CapVox.ai** is a 24/7 voice-automation platform that replaces human SDRs and receptionists with ultra-realistic AI voice agents.  
