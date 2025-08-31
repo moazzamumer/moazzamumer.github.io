@@ -22,7 +22,7 @@ repository               : "moazzamumer/moazzamumer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/moazzam-github-profile.jpg"
+  avatar           : "/images/moazzam-github-profile.jpg"
   name             : "Moazzam Umer"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant at FAST NUCES"
