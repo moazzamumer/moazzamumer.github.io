@@ -28,5 +28,5 @@ As a Research Assistant at FAST NUCES under [Dr. Asma Ahmad](https://lhr.nu.edu.
 
 ## Visitors Map
 <div align="center">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=TrfiZGhX-soc8LX-v4qYGTZR3BDsRhHDZgglV-8vzC0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=TrfiZGhX-soc8LX-v4qYGTZR3BDsRhHDZgglV-8vzC0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </div>
