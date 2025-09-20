@@ -1,10 +1,10 @@
 ---
-title: "PM2.5 & PM10 Forecasting via Multivariate Time Series Modeling"
+title: "Beyond the Hype: Comparing Lightweight and Deep Learning Models for Air Quality Forecasting"
 collection: publications
 permalink: /publication/forecasting-paper
 date: 2025-01-01
-venue: "In preparation"
+venue: "Submitted to Springer Signal, Image and Video Processing Journal"
 authors: Moazzam Umer, Hamad-Ul-Qudous, Asma Ahmad
 ---
 
-This work proposes a robust framework for PM2.5 and PM10 forecasting using multivariate time series models and feature selection. Currently under preparation, expected submission in 2025.
+Explored whether lightweight forecasting models like Facebook Prophet and NeuralProphet can rival deep learning approaches (LSTM, LightGBM) for PM<sub>2.5</sub> and PM<sub>10</sub> prediction using real-world air quality data from Beijing. Achieved R² > 0.94 and MAE < 5, showing that interpretable models can offer both high accuracy and operational simplicity. The study emphasizes practical deployment of transparent models in environmental monitoring systems.
