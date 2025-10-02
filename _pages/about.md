@@ -13,10 +13,10 @@ As a Research Assistant at FAST NUCES under [Dr. Asma Ahmad](https://lhr.nu.edu.
 
 ### <span style="color: salmon;">I am actively seeking graduate research opportunities (MS/PhD) in areas related to AI, ML, and data science and also open to collaborative opportunities in research and applied AI.</span>
 
-## Research Interests  
-- Deep Learning & Representation Learning
-- Multimodal Systems (Vision + NLP)
-- Federated Learning & Privacy-Preserving AI  
+## Broad Research Interests  
+- Machine Learning and Artificial Intelligence
+- Multimodal and Human-Centered AI
+- Trustworthy and Responsible AI 
 - AI for Social Good
 - Explainable AI (XAI)
 
