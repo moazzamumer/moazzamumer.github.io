@@ -11,8 +11,6 @@ I am a BS Data Science graduate from FAST National University of Computer and Em
 
 As a Research Assistant at FAST NUCES under [Dr. Asma Ahmad](https://lhr.nu.edu.pk/fsc/facultyProfile/4335), I work on forecasting, federated learning, and vision-language applications. My research includes developing methods for multivariate time series modeling in air quality prediction, designing federated pipelines for multi-sensor human activity recognition, and advancing domain-aware vision-language models to improve culturally relevant image captioning. Together, these projects aim to build trustworthy, multimodal AI systems with real-world impact.
 
-### <span style="color: salmon;">I am actively seeking graduate research opportunities (MS/PhD) in areas related to AI, ML, and data science and also open to collaborative opportunities in research and applied AI.</span>
-
 ## Broad Research Interests  
 - Machine Learning and Artificial Intelligence
 - Multimodal and Human-Centered AI
