@@ -3,7 +3,7 @@ title: "Beyond the Hype: Comparing Lightweight and Deep Learning Models for Air 
 collection: publications
 permalink: /publication/forecasting-paper
 date: 2025-01-01
-venue: "Submitted to Springer Signal, Image and Video Processing Journal"
+venue: "Submission In Process"
 authors: Moazzam Umer, Hamad-Ul-Qudous, Asma Ahmad
 ---
 
