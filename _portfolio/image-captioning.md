@@ -1,6 +1,6 @@
 ---
 title: "Improving Image Captioning on Asian Cultural Dresses"
-excerpt: "Fine-tuning BLIP for culturally specific image captioning<br/><img src='/images/image-captioning/poster.png' width='500' height='300'>"
+excerpt: "Fine-tuning BLIP for culturally specific image captioning<br/><img src='/images/image-captioning/poster.webp' width='500' height='300'>"
 collection: portfolio
 ---
 

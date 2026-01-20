@@ -1,6 +1,6 @@
 ---
 title: "Landscape Art Studio"
-excerpt: "AI-driven landscape editing with masks, upscaling, and prompt-based controls<br/><img src='/images/landscape/poster.png' width='500' height='300'>"
+excerpt: "AI-driven landscape editing with masks, upscaling, and prompt-based controls<br/><img src='/images/landscape/poster.webp' width='500' height='300'>"
 collection: portfolio
 ---
 

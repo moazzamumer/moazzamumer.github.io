@@ -1,6 +1,6 @@
 ---
 title: "CapVox AI"
-excerpt: "24/7 AI voice automation platform for SDR and receptionist tasks<br/><img src='/images/capvox/capvox.png' width='400' height='300'>"
+excerpt: "24/7 AI voice automation platform for SDR and receptionist tasks<br/><img src='/images/capvox/capvox.webp' width='400' height='300'>"
 collection: portfolio
 category: industry
 ---

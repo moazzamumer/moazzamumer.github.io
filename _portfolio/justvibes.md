@@ -1,6 +1,6 @@
 ---
 title: "JustVibes"
-excerpt: "Social networking app for shared interests and virtual vibe rooms<br/><img src='/images/justvibes/justvibes.png' width='500' height='300'>"
+excerpt: "Social networking app for shared interests and virtual vibe rooms<br/><img src='/images/justvibes/justvibes.webp' width='500' height='300'>"
 collection: portfolio
 category: industry
 ---

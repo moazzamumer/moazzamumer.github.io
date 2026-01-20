@@ -1,6 +1,6 @@
 ---
 title: "Jarvis - A Sales Automation System"
-excerpt: "AI-powered lead extraction and follow-up platform for insurance sales<br/><img src='/images/jarvis/jarvis-poster.png' width='500' height='300'>"
+excerpt: "AI-powered lead extraction and follow-up platform for insurance sales<br/><img src='/images/jarvis/jarvis-poster.webp' width='500' height='300'>"
 collection: portfolio
 ---
 

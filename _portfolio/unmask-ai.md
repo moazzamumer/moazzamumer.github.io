@@ -1,6 +1,6 @@
 ---
 title: "Unmask AI"
-excerpt: "Live bias-detection lab for LLMs, built during an international hackathon<br/><img src='/images/unmask/unmask.jpg' width='500' height='300'>"
+excerpt: "Live bias-detection lab for LLMs, built during an international hackathon<br/><img src='/images/unmask/unmask.webp' width='500' height='300'>"
 collection: portfolio
 ---
 

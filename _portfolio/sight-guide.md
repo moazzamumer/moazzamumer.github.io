@@ -1,6 +1,6 @@
 ---
 title: "Sight Guide"
-excerpt: "AI-powered navigation assistant for the visually impaired<br/><img src='/images/sight-guide/poster.png' width='500' height='300'>"
+excerpt: "AI-powered navigation assistant for the visually impaired<br/><img src='/images/sight-guide/poster.webp' width='500' height='300'>"
 collection: portfolio
 ---
 
