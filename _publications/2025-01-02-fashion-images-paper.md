@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/fashion-images-paper
 date: 2025-01-01
 venue: "Submitted to Expert Systems with Applications"
+paperurl: "https://arxiv.org/abs/2511.19149"  
 authors: Moazzam Umer, Hamad-Ul-Qudous, Daniya Siddiqui, Asma Ahmad Farhan
 ---
 
